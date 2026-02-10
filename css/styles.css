@@ -11298,13 +11298,13 @@ p {
 }
 .section-heading .section-heading-upper {
   display: block;
-  font-size: 1rem;
-  font-weight: 800;
+  font-size: 1.5rem;
+  font-weight: 700;
 }
 .section-heading .section-heading-lower {
   display: block;
   font-size: 3rem;
-  font-weight: 100;
+  font-weight: 200;
 }
 
 .bg-faded {
@@ -11321,7 +11321,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(111, 78, 55, 0.9);
   font-family:
     "Raleway",
     -apple-system,
